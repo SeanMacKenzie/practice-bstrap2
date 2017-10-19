@@ -1,0 +1,37 @@
+
+.jumbotron{
+    background-image: url(https://i.pinimg.com/originals/59/14/c2/5914c2c5a22d768523cd29e9aec74be7.jpg);
+    background-size: cover; 
+    color: white;
+}
+.navbar{
+    background-color: white;
+    border: white;  
+}
+.beta{
+    background-color: rgb(46, 43, 38); 
+    color: white;
+    padding: 10%;      
+}
+.basic{
+    background-color: darkblue;
+}
+.logo{
+    width: 75px;
+    height: 55px;   
+}
+.arnie{
+    width: 250px;
+    height: 175px;
+}
+.chunt{
+    width: 150px;
+    height: 200px;  
+}
+.usidore{
+    width: 200px;
+    height: 200px;  
+}
+.gamma{
+    padding: 5%;    
+}
